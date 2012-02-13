@@ -1,3 +1,3 @@
 <?php
 
-require './consts.php'; 
+require './consts.php';
