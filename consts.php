@@ -1,3 +1,4 @@
 <?php
 
 define('ERROR_REPORTING_LVL', -1);
+define('ERROR_REPORTING_LVL_TEMPLATE', -1);
